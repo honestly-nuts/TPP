@@ -7,6 +7,9 @@ description:
 
 authors: honestly-nuts, john doe.
 
+-- command 
+>> program {pro_file}
+
 start
 this text will be saved
 this text also will be saved
