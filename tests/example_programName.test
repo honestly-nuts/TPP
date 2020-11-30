@@ -1,0 +1,17 @@
+synopsys:
+    program {inputfile}
+
+description:
+    The program is a program that is a program that reads text from input files
+    and does literally nothing with it.
+
+authors: honestly-nuts, john doe.
+
+start
+this text will be saved
+this text also will be saved
+end
+
+the output
+>> (nothing because it does nothing with the text it read)
+

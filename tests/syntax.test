@@ -1,13 +1,10 @@
--- this is a comment
--- all text that are not included in the start end block will be removed from the output txt file by the preprocessor
--- / to indicate that there are multiple ways to run the script
--- [] to indicate option
+blah blah blah program does this that
+author(s): john doe, john ducjuc
 
--- to indicate argumets that are not literal use {} (eg. {file(s)})
-
--- command 
+-- start point
 start
-the text
+the program go brr
 end
+-- end point
 
--- here you should write the expected outcome
+here you should write the expected outcome
